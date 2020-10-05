@@ -32,3 +32,18 @@ Step 9: After all this is completed the preprocessing of the data is completed. 
 
 
 # Screenshots
+
+
+![Visualisation 1](https://github.com/swathiravi10695/twitterjsonDataAnalysis/blob/main/Screenshots/1000MostCommonUsedWords.PNG)
+<br>
+
+![Visualisation 2](https://github.com/swathiravi10695/twitterjsonDataAnalysis/blob/main/Screenshots/1000MostCommonUsedWordsStandardScale.PNG)
+
+<br>
+
+![Visualisation 3](https://github.com/swathiravi10695/twitterjsonDataAnalysis/blob/main/Screenshots/TIme%20series%20analysis%20-%20No%20of%20tweets%20Scatter.png)
+
+<br>
+
+![Visualisation 4](https://github.com/swathiravi10695/twitterjsonDataAnalysis/blob/main/Screenshots/TIme%20series%20analysis%20-%20No%20of%20tweets.png)
+
